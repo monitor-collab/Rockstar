@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+ background-color: black;
+  background-size: cover;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo img {
+    margin-top: 130px;
+    width: 101px;
+    height: 101px;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    padding-bottom: 00px;
+}
+
+.box2 {
+
+    background-color: #fff;
+    width: 500px;
+    height: 300px;
+    padding: 20px;
+    margin: 22px ;
+    border-radius: 3px;
+    margin-top: 0;
+    padding-bottom: 0%;
+}
+
+#heading {
+    margin: 0 0 10px;
+    font-size: 27px;
+    color: #4d4d4d;
+    font-family: 'Roboto', sans-serif;
+}
+
+#emailbox {
+    margin-top: 23px;
+}
+
+#email {
+    border: #e6e6e6 solid 1px;
+    width: 28.40rem;
+    display: block;
+    font-size: 1.25rem;
+    height: 3.25rem;
+    background: #fff;
+    margin: 0;
+    padding: 0 1.25rem;
+    position: relative;
+}
+
+#password {
+    border: #e6e6e6 solid 1px;
+    width: 28.40rem;
+    display: block;
+    font-size: 1.125rem;
+    height: 3.25rem;
+    background: #fff;
+    margin: 0;
+    padding: 0 1.25rem;
+    position: relative;
+}
+
+#password2 {
+    margin-top: 20px;
+}
+
+input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+#keep {
+    color: black;
+    font-size: 17px;
+}
+
+#forget {
+    color: #4d4d4d;
+    margin-top: 0px;
+    position: relative;
+    top: 10%;
+
+}
+
+#up {
+    cursor: pointer;
+
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    background-color: #fcaf17;
+    border-radius: 3px;
+    border: none;
+    font-weight: 650;
+    position: relative;
+    left: 80%;
+  width: 81.25px;
+  height: 35.25px;
+ 
+  margin: 0px 0px 8.125px; 
+
+
+}
+#bottom{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#bottom1{
+    margin-bottom: 100PX;
+    width: 545px;
+    height: 110px;
+    border-radius: 3px;
+    background-color: white;
+
+}
+#para{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: large;
+   margin-top: 37px;
+   margin-left: 20px;
+   color: #4d4d4d;
+   width: 120px;
+    
+}
+#ps{
+        border-radius: 50%;
+   position: relative;
+   left: 55%;
+   bottom: 60px;
+}
+#xbox{
+    position: relative;
+    left: 80%;
+    bottom: 150px;
+}
+#para2{
+    color: #fff;
+    position: relative;
+    bottom: 80px;
+    left: 34%;
+    font-size: 17px;
+    font-weight: 300;
+}
+#foot{
+
+   color: #fcaf17;
+}
+#foot2{
+    font-size: 12px;
+    display: flex;
+    color: #999999;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: relative;
+    left: 33.5%;
+    
+    bottom: 65px;
+}
+#pp{
+    margin-left: 10px;
+    color: #ffffffcc;
+}
+#ts{
+    margin-left: 10px;
+    color: #ffffffcc;
+}
+#cs{
+    margin-left: 10px;
+    color: #ffffffcc;
+}
